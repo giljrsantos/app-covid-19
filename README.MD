@@ -27,6 +27,7 @@ Mostra Global, e também pode escolher um país. E mostra os mesmo dados do paí
 ---
 ## 📱 Mobile
 <p align="left">
+<img src="./src/assets/0.jpg" width="200">
 <img src="./src/assets/1.jpg" width="200">
 <img src="./src/assets/2.jpg" width="200">
 <img src="./src/assets/3.jpg" width="200">
